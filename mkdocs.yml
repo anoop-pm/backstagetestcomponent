@@ -1,0 +1,8 @@
+site_name: "Backstagetest"
+site_description: "Testing"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

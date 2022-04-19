@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Backstagetest"
+  description: "Testing"
+  annotations:
+    github.com/project-slug: anoop-pm/backstagetestcomponent
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "backstage"
